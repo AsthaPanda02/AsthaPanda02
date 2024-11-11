@@ -4,9 +4,9 @@ I'm a Frontend Developer and machine learning enthusiast. My journey began with 
 
 There's something about writing code and bringing ideas to life that is truly exhilarating. I've always been an artist at heart, and I strive to infuse that artistry into every line of code I write. If you have a unique idea, let’s connect!
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
-![Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/your-github-username?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Astha062902&color=orange)
+![Followers](https://img.shields.io/github/followers/Astha062902?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Astha062902?style=social)
 ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## ⚒️ Skills
