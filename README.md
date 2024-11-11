@@ -1,4 +1,4 @@
-## Hi, I'm Astha Panda 👋
+## 👋 Hi, I'm Astha Panda 
 
 I'm a Frontend Developer and machine learning enthusiast. My journey began with machine learning, evolving into frontend development. I enjoy experimenting with new technologies and am always open to exciting opportunities and collaborations.
 
