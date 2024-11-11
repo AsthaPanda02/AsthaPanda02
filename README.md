@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Astha Panda 👋
+
+I'm a Frontend Developer and machine learning enthusiast. My journey began with machine learning, evolving into frontend development. I enjoy experimenting with new technologies and am always open to exciting opportunities and collaborations.
+
+There's something about writing code and bringing ideas to life that is truly exhilarating. I've always been an artist at heart, and I strive to infuse that artistry into every line of code I write. If you have a unique idea, let’s connect!
 
 <!--
 **Astha062902/Astha062902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
