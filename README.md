@@ -1,8 +1,11 @@
 ## 👋 Hi, I'm Astha Panda 
 
-I'm a Frontend Developer and machine learning enthusiast. My journey began with machine learning, evolving into frontend development. I enjoy experimenting with new technologies and am always open to exciting opportunities and collaborations.
+I'm a Frontend Developer, Machine Learning enthusiast, and former Data Engineering intern at UBS. My journey began with machine learning, evolved into frontend development, and expanded further through hands-on experience in data infrastructure and visualization.
 
-There's something about writing code and bringing ideas to life that is truly exhilarating. I've always been an artist at heart, and I strive to infuse that artistry into every line of code I write. If you have a unique idea, let’s connect!
+I love experimenting with new technologies, whether it's designing intuitive UIs with React, building backend services with FastAPI, or working with tools like Azure SQL, Kafka, and Power BI to turn raw data into insights.
+
+
+There's something about writing code and bringing ideas to life that is truly exhilarating. I've always been an artist at heart, and I strive to infuse that artistry into every line of code I write. If you have a unique idea, let's connect!
 
 ## ⚒️ Skills
 
@@ -25,6 +28,8 @@ There's something about writing code and bringing ideas to life that is truly ex
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 <!--
